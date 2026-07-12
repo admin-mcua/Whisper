@@ -1,0 +1,5 @@
+/* Custom styles for Whisper */
+* { -webkit-tap-highlight-color: transparent; }
+::-webkit-scrollbar { width: 8px; }
+::-webkit-scrollbar-thumb { background: rgba(118,75,162,0.3); border-radius: 4px; }
+textarea { font-family: inherit; }
